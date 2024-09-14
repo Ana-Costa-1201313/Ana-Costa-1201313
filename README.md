@@ -3,6 +3,7 @@
 💻  Software Engineering Student | Final year at Instituto Superior de Engenharia do Porto (ISEP).<br/>
 🔎 Eager to learn and always looking for opportunities to grow.<br>
 👯Collaborative team player with experience with Agile Scrum methodology.<br/>
+📖Hobbies: reading, gaming and doing manual crafts, which fuel my creativity.<br/>
 🩺 Fun fact: I’ve completed over half of a nursing degree.<br>
 🧠 You're welcome to check my projects!<br/>
 
