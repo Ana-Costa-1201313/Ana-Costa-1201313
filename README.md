@@ -1,9 +1,9 @@
 # Hi, I'm Beatriz!<br/>
 
-💻 I’m a software engineering student, in the last year of graduation.<br>
-📒Studying at the Instituto Superior de Engenharia do Porto (ISEP).<br/>
-🎞️ Currently learning typescript and angular.<br>
-🩺 Fun fact: I have more than half of a nursing degree.<br>
+💻  Software Engineering Student | Final year at Instituto Superior de Engenharia do Porto (ISEP).<br/>
+🔎 Eager to learn and always looking for opportunities to grow.<br>
+👯Collaborative team player with experience with Agile Scrum methodology.<br/>
+🩺 Fun fact: I’ve completed over half of a nursing degree.<br>
 🧠 You're welcome to check my projects!<br/>
 
 ## Explored Tech:
@@ -27,5 +27,9 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 ## My projects:
+Lapr3
+Lapr4
+Sustain Sim
 
 ## Contact me:
+LinkedIn
